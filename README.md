@@ -13,6 +13,7 @@ ii. Use configuration files or another industry-standard mechanism for determini
 Write unit tests to support the API.
 
 #To run the application:
+Download and uncompress File
 
 Build the solution (all of the projects)
 
